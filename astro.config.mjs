@@ -83,7 +83,7 @@ export default defineConfig({
     },
     {
       provider: fontProviders.google(),
-      name: 'Oswald',
+      name: 'Villa',
       cssVariable: '--font-oswald',
       weights: [400, 700],
     },
