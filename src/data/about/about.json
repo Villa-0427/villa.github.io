@@ -1,86 +1,83 @@
 {
-  "pageTitle": "About Apex Capital Group",
-  "pageDescription": "Apex Capital Group is a private holding company that acquires, operates, and strategically exits businesses across multiple sectors. We deploy capital with discipline and manage operations with intention.",
+  "pageTitle": "Sobre Juan David Villamizar",
+  "pageDescription": "Estudiante universitario y desarrollador junior en Java, con experiencia en SQL y Power BI. Aprendiendo y construyendo proyectos con disciplina y ganas de crecer.",
 
   "contactBar": {
     "items": [
-      { "label": "IR Email",    "value": "ir@apexcap.example",   "href": "mailto:ir@apexcap.example" },
-      { "label": "Phone",       "value": "(000) 000-0000",         "href": "tel:+10000000000" },
-      { "label": "Location",    "value": "New York, New York",     "href": null }
+      { "label": "Email",    "value": "villamizarmorenojuandavid1@gmail.com",   "href": "mailto:villamizarmorenojuandavid1@gmail.com" },
+      { "label": "Teléfono",       "value": "+57 300 963 0812",         "href": "tel:+573009630812" },
+      { "label": "Ubicación",    "value": "Bogotá, Colombia",     "href": null }
     ]
   },
 
   "paragraphs": [
-    "Apex Capital Group was formed to do one thing well: identify businesses with strong fundamentals and underutilized potential, acquire them, and make them perform. We are not a turnaround shop. We are not a strip-and-flip operation. We are operators who happen to own companies.",
-    "Our portfolio spans manufacturing, services, technology, media, and real estate. What these companies have in common is not their sector — it is the situation we found them in: ready for the next chapter, waiting for the right partner to write it.",
-    "We take board seats, we hire and replace leadership when necessary, we optimize costs without destroying culture, and we plan for exits from the day we close. This is not complicated. It is simply disciplined capital allocation paired with operational seriousness. Most people find that combination more rare than it should be."
+    "Soy estudiante universitario y llevo entre 1 y 2 años formándome como desarrollador. Empecé por SQL para entender cómo se organizan y consultan los datos, y desde ahí fui sumando Power BI para visualizarlos, y ahora estoy dando mis primeros pasos como desarrollador junior en Java.",
+    "No tengo años de experiencia profesional todavía, pero sí tengo constancia: cada proyecto que hago es una oportunidad para aprender algo nuevo y mejorar la calidad de lo que construyo.",
+    "Este portafolio es un reflejo de ese proceso — un lugar donde reúno lo que he aprendido y lo que sigo construyendo, mientras me preparo para dar el salto a mi primer empleo como desarrollador."
   ],
 
-  "pillarsHeading": "What Apex Capital Does",
+  "pillarsHeading": "Lo que sé hacer",
   "pillars": [
     {
-      "title": "Acquisition & Intake",
-      "desc": "Sourcing, diligence, deal structuring, and portfolio integration across sectors and transaction sizes.",
+      "title": "Bases de Datos (SQL)",
+      "desc": "Consultas, diseño de tablas, relaciones y manejo de datos con SQL.",
       "icon": "building-office"
     },
     {
-      "title": "Operational Efficiency",
-      "desc": "Post-close operational assessment, cost structure optimization, and KPI-driven performance management.",
+      "title": "Visualización de Datos (Power BI)",
+      "desc": "Creación de dashboards e informes para analizar y comunicar datos de forma clara.",
       "icon": "chart-bar-square"
     },
     {
-      "title": "Portfolio Disposition",
-      "desc": "Exit strategy development, M&A advisory, buyer identification, and transaction management.",
+      "title": "Desarrollo en Java",
+      "desc": "Programación orientada a objetos y lógica de aplicaciones como desarrollador junior.",
       "icon": "arrow-trending-up"
     },
     {
-      "title": "Leadership Transition",
-      "desc": "Executive assessment, onboarding, board governance, and stakeholder communication management.",
+      "title": "Aprendizaje Continuo",
+      "desc": "Formación constante como estudiante universitario, con nuevos proyectos y retos técnicos.",
       "icon": "user-plus"
     }
   ],
 
   "stats": [
-    { "value": "20+", "label": "Years Experience" },
-    { "value": "12+", "label": "Portfolio Companies" },
-    { "value": "5",   "label": "Active Sectors" },
-    { "value": "LLC", "label": "Apex Capital Group, LLC" }
+    { "value": "1-2", "label": "Años Aprendiendo" },
+    { "value": "3",   "label": "Tecnologías Principales" },
+    { "value": "SQL", "label": "Punto de Partida" },
+    { "value": "Java", "label": "Enfoque Actual" }
   ],
 
   "clientTypes": {
-    "eyebrow": "Who We Work With",
-    "heading": "Built for businesses at an inflection point.",
-    "body": "Our portfolio companies come to us through various paths — founder succession, corporate divestitures, distressed situations, and competitive acquisitions. What they share is a need for the right owner at the right time.",
+    "eyebrow": "¿Qué Busco?",
+    "heading": "Construyendo mi camino como desarrollador.",
+    "body": "Estoy en la etapa de formar mi experiencia práctica: proyectos personales, prácticas profesionales, y oportunidades donde pueda aportar y seguir aprendiendo.",
     "items": [
-      { "label": "Family-Owned Businesses" },
-      { "label": "Corporate Divestitures" },
-      { "label": "Management Buyouts" },
-      { "label": "Distressed & Turnaround" },
-      { "label": "Founder Succession" },
-      { "label": "Secondary Buyouts" }
+      { "label": "Prácticas Profesionales" },
+      { "label": "Proyectos Personales" },
+      { "label": "Freelance de Bajo Alcance" },
+      { "label": "Colaboraciones de Aprendizaje" },
+      { "label": "Primer Empleo Junior" },
+      { "label": "Mentorías" }
     ]
   },
 
   "capabilitiesShowcase": {
-    "eyebrow": "Full Capabilities",
-    "heading": "What We Do.",
-    "subheading": "A cross-section of the disciplines we apply across every company in our portfolio. Click any card to read more."
+    "eyebrow": "Habilidades",
+    "heading": "Lo Que Hago.",
+    "subheading": "Un resumen de las herramientas y tecnologías con las que trabajo actualmente. Haz clic en cada tarjeta para más detalle."
   },
 
-  "techStackHeading": "Sectors we know well",
+  "techStackHeading": "Tecnologías que conozco",
   "techStackGroups": [
-    { "cat": "Manufacturing",   "items": ["Industrial Supply", "Food Processing", "Contract Manufacturing", "Light Assembly", "Co-Manufacturing", "Specialty Chemicals", "Metal Fabrication", "Plastics & Composites"] },
-    { "cat": "Services",        "items": ["Healthcare Staffing", "IT Services", "Field Services", "Business Process Outsourcing", "Environmental Services", "Facilities Management", "Professional Services"] },
-    { "cat": "Technology",      "items": ["SaaS", "Managed Services", "Enterprise Software", "IoT & Connected Devices", "Data & Analytics", "Digital Transformation", "Platform Businesses"] },
-    { "cat": "Distribution",    "items": ["Industrial Distribution", "Food & Beverage", "Last-Mile Logistics", "Third-Party Logistics", "Cold Chain", "E-commerce Fulfillment"] },
-    { "cat": "Real Estate",     "items": ["Light Industrial", "Flex Commercial", "Net Lease", "Sale-Leaseback", "Owner-User", "Development Land"] },
-    { "cat": "Media",           "items": ["Regional Publishing", "Digital Media", "Events & Conferences", "Trade Publications", "Newsletters", "Broadcast"] }
+    { "cat": "Bases de Datos",   "items": ["SQL", "Consultas", "Diseño de Tablas", "Relaciones"] },
+    { "cat": "Análisis de Datos", "items": ["Power BI", "Dashboards", "Reportes", "Visualización"] },
+    { "cat": "Programación",     "items": ["Java", "Programación Orientada a Objetos", "Lógica de Programación"] }
   ],
 
   "cta": {
-    "heading": "Ready to discuss your company or investment thesis?",
-    "body": "We review all serious inquiries and respond to those that fit our mandate. If it fits, we move quickly.",
-    "label": "Contact Investor Relations →",
+    "heading": "¿Quieres hablar de una oportunidad o proyecto?",
+    "body": "Reviso todos los mensajes y respondo con gusto. Estoy abierto a prácticas, proyectos y oportunidades de aprendizaje.",
+    "label": "Contáctame →",
     "href": "/contact"
   }
 }
