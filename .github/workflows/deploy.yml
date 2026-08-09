@@ -55,7 +55,7 @@ jobs:
             echo ""
             echo "╔══════════════════════════════════════════════════════════════════╗"
             echo "║  GitHub Pages source is not set to 'GitHub Actions'.                   ║"
-            echo "║  Current source: $SOURCE"                                              ║"
+            echo "║  Current source: $SOURCE                                             ║"
             echo "║                                                                        ║"
             echo "║  Fix: Go to Settings → Pages → Build and deployment                    ║"
             echo "║       Set Source to: GitHub Actions                                    ║"
