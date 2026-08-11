@@ -68,7 +68,7 @@ const POSTS_PER_PAGE = 10;
               const date = post.data.pubDate.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" });
               return (
                 
-                 href={withBase(`/blog/${slug}`)}
+                <a href={withBase(`/blog/${slug}`)}
                   class="group flex flex-col sm:flex-row gap-5 p-6 rounded-2xl border border-site-border/60 bg-site-surface/30 backdrop-blur-sm hover:bg-site-surface/50 hover:border-electric-cyan/20 transition-all duration-200 hover:-translate-y-0.5"
                 >
                   {post.data.image && (
