@@ -7,7 +7,7 @@ category: general
 draft: false
 pin: true
 image:
-  path: /images/blog/juan-presentacion.png
+  path: /images/blog/Gemini_Generated_Image_9fo4ao9fo4ao9fo4.png
   alt: Juan David Villamizar en un festival, con un cartel de Villa | Bases de datos
 ---
 
