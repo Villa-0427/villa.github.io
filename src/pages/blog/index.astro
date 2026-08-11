@@ -44,7 +44,7 @@ const POSTS_PER_PAGE = 10;
       <div class="mb-10">
         <h1 class="font-display font-bold text-4xl sm:text-5xl text-site-text mb-4">Blog</h1>
         <p class="text-site-text-muted text-xl">
-          Perspectives on private equity, operations, and business building from the Apex Capital team.
+          Reflexiones y aprendizajes sobre mi camino como desarrollador junior, SQL, Power BI y Java.
         </p>
       </div>
 
@@ -67,7 +67,7 @@ const POSTS_PER_PAGE = 10;
               const slug = post.id.replace(/\.md$/, "");
               const date = post.data.pubDate.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" });
               return (
-                <a
+                
                   href={withBase(`/blog/${slug}`)}
                   class="group flex flex-col sm:flex-row gap-5 p-6 rounded-2xl border border-site-border/60 bg-site-surface/30 backdrop-blur-sm hover:bg-site-surface/50 hover:border-electric-cyan/20 transition-all duration-200 hover:-translate-y-0.5"
                 >
@@ -155,7 +155,7 @@ const POSTS_PER_PAGE = 10;
 
       <div class="space-y-5" id="posts-container">
         {posts.map((post, index) => (
-          <a
+          
             href={post.link}
             target="_blank"
             rel="noopener noreferrer"
@@ -406,4 +406,5 @@ const POSTS_PER_PAGE = 10;
     const initialPage = Math.max(0, Math.min(totalPages - 1, Number(params.get('page') ?? 0)));
     if (initialPage > 0) showPage(initialPage);
   });
+</script>
 </script>
