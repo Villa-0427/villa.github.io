@@ -27,10 +27,7 @@ El modelo representa un sistema para gestionar equipos, jugadores, árbitros y p
 Este tipo de ejercicios me ayuda a fortalecer mi base en el diseño de bases de datos, algo que complementa directamente lo que vengo trabajando con SQL.
 
 href="https://drive.google.com/file/d/1cahBydYzQ3oKHvhdKzybdEcxcO7j3Joy/view?usp=sharing"
-  target="_blank"
-  rel="noopener noreferrer"
-  style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 24px; background: var(--color-primary, #22d3ee); color: #000; font-weight: 700; text-decoration: none; border-radius: 8px; margin-top: 1rem;"
->
+  
   Ver el proyecto completo →
 </a>
 
