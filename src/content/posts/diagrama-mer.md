@@ -26,6 +26,6 @@ Este tipo de ejercicios me ayuda a fortalecer mi base en el diseño de bases de 
 
 href="https://drive.google.com/file/d/1cahBydYzQ3oKHvhdKzybdEcxcO7j3Joy/view?usp=sharing"
   
-Ver el proyecto completo →
+Ver el proyecto completo ↑
 </a>
 
