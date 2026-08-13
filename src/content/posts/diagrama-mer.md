@@ -22,8 +22,6 @@ El modelo representa un sistema para gestionar equipos, jugadores, árbitros y p
 - Atributos compuestos, como el **Nombre**, que se descompone en primer nombre, segundo nombre, primer apellido y segundo apellido.
 - Atributos identificadores (subrayados), como la **Cédula** del jugador y la **Posición** en la tabla.
 
-![Diagrama Entidad-Relación estilo Peter Chen](/images/blog/Diagrama%20MER.png)
-
 Este tipo de ejercicios me ayuda a fortalecer mi base en el diseño de bases de datos, algo que complementa directamente lo que vengo trabajando con SQL.
 
 href="https://drive.google.com/file/d/1cahBydYzQ3oKHvhdKzybdEcxcO7j3Joy/view?usp=sharing"
